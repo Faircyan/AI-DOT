@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 23a24fb9886e3754f8268970193ef23b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blackDot: {fileID: 1489883308755806, guid: b6b11f458e57aae4480748a843e4adc7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
